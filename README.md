@@ -1,3 +1,12 @@
+# Task #1 
+https://github.com/franzose/ClosureTable/issues/233
+
+Remember your job is to make *incremental* progress, break the task into smaller tasks, or finish something in 15 minutes, then pass it along to the next contributor. 
+No responsibility, only fun.
+
+
+When you have finished your 15 minutes, add your next task to the readme.md. Then make a pull request to the repo.
+
 # ClosureTable
 [![Build Status](https://travis-ci.org/franzose/ClosureTable.png)](https://travis-ci.org/franzose/ClosureTable)
 [![Latest Release](https://img.shields.io/github/v/release/franzose/ClosureTable)](https://packagist.org/packages/franzose/closure-table)
